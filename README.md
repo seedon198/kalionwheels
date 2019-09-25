@@ -4,6 +4,7 @@
 <div style="text-align: justify">
 KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs kali linux. It gives freedom for a penetration tester to perform Red Teaming activity from anywhere as long as both the devices have a stable internet connection. KOW is built around a SOC *(Raspberry Pi)* but it could be ported to any SOC or an Android phone for simplicity.
 </div>
+
 ##### Features
 - Kali-Rolling Repository.
 - On-board 1080p camera with 2-axis servo.

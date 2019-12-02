@@ -44,3 +44,19 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 
 
 ![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/top.jpg)
+
+
+
+#### Hardware Requirement
+
+- 1 x 4X4 RC Car with Brushed DC Motors
+- 1 x L293D DC Motor Driver
+- 2 x 9g Servo Motors
+- 1 x Arduino UNO
+- 1 x Raspberry Pi 4B 4GB Variant
+- 1 x 5V 0.2A Fan
+- 1 x 5V 3A BEC (Battery Eliminator Circuit)
+- 6 x 18650 2200mAh Li-ion Cells
+- 2 x 3S 18650 Holders
+- 2 x 3S 18650 BMS Boards
+- 1 x NoIR Camera Module

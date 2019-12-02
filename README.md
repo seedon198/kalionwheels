@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/logo.png)
+![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/logo.png)
 
 ------------
 <div style="text-align: justify">
@@ -30,4 +30,3 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 - Can disrupt a business by performing WiFi De-Auth attack for 72 Hours.
 - Can perform packet capture for 72 Hours on any frequency using onboard SDR (software defined radio) which is not limited to  just bluetooth and WiFi, also the Digital and Analog low power radio communications (Walkie Talkies) could be demodulated in realtime to eavesdrop on the radio voice communication.
 - Anything you could possibly imagine doing on a kali box from a safe distance.
-

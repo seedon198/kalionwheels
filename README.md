@@ -6,7 +6,7 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 </div>
 
 
-![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/front.png)
+![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/front.jpg)
 
 
 #### Features
@@ -24,7 +24,7 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 - Support for Realtime Linux Kernel on SOC.
 
 
-![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/side.png)
+![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/side.jpg)
 
 
 #### Usage
@@ -40,4 +40,4 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 - Anything you could possibly imagine doing on a kali box from a safe distance.
 
 
-![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/top.png)
+![](https://raw.githubusercontent.com/seedon198/kalionwheels/master/images/top.jpg)

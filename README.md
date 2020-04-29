@@ -60,3 +60,5 @@ KALI ON WHEELS is an UGV *(unmanned ground vehicle)* platform which runs Kali Li
 - 2 x 3S 18650 Holders
 - 2 x 3S 18650 BMS Boards
 - 1 x NoIR Camera Module
+
+[![B|Sides - Ahmedabad Highlights](https://i.ytimg.com/an_webp/WxWGKomwkuo/mqdefault_6s.webp?du=7000&sqp=CMDApvUF&rs=AOn4CLB-mwagR3nASQmCFRlRObAWdKZ1Hw)](https://www.youtube.com/watch?v=WxWGKomwkuo "B|Sides - Ahmedabad Highlights")
